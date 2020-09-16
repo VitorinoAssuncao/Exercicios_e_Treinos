@@ -1,0 +1,43 @@
+/* Estilização da Tabela */
+.tb_jogo{
+    font-size: 50px;
+}
+
+.cel_1{
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.cel_2{
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.cel_3{
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.cel_4{
+    border-right: 1px solid black;
+}
+
+.cel_6{
+    border-left: 1px solid black;
+}
+
+.cel_7{
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.cel_8{
+    border-top: 1px solid black;
+}
+
+.cel_9{
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+
